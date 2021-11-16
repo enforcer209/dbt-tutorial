@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pivotal-glider-332317",
+  "private_key_id": "268e0410a247076882cd54ec3c0555a4b09cf901",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjU+lb+exl8oC8\nBv3EMUsCk2dB+V68IUoq0TBQAYI7g47ZMw8cmo20cnFHFhmTKcPAH0t8+KqRf7by\nJFXV6/XEustbShD3p1iiV198G2D9RiH92FBUmdv9i4RLBu55Ou5SF0YRdxjSecgJ\nNGXudQU75YZlKMBoOjRb7rXsIIW0+tO+eLdab/Cbwk5bS467FOFOfmX/a6LB7AEs\nBSneBbNzxRErPBPTaorCOgV9bcbjTkgnaPgWYKQo4FG+XUht+CW4Qx532GV4Ggig\nOgiSYQRnk5P6WWtiYIpiqXBHtSNKLqJCxzw3tVysbeWVTTQjAaUrU5nHVxwFgSvX\n+HxZ6MOfAgMBAAECggEAHg4m90H6epgxkGhI8n2PrB2r9rwI7t3BZDeyiEZ+zKzc\n8KMwuLbINNiKd+ZdNnONDiG0Jn8sBDJYXB7LnN4bD+S/30C19pzY9qbVb2UqZ/Er\n+CaCQc8+aF3wLk5MPArYKEsYHcaozrKSWP9HcqYeHHOUU7E4FvX/BJvc5mLlt/PU\nxWoDSl/Qh2Ge/N7txiuoyRXh75CBc31rUZTnzqKqj9fndzGsd6j7X9q+ZjshMCTd\nNmg8iMRM2EUWVRdDZWjyArCs/HRY/9dMolT7/IXefLBFl34QpAqwpUIFUn/8jRqO\nKmsocGfG17ttpy7rCyOwktINvXJEBFqZ8n1mEl6QoQKBgQDgfs249iRlHbtqbXKG\n5OpEUgv+3ZkRdQpcEzdBWcpEgMirTBE2HrKqNEc2hPcssQdY1AaJAREuNVNH397W\ncn9Y9AQmyHH7bKoGvslS6biWkm9LLQhfXZ8t9Oeaj+2eL7SL/c8jiWAir+TX/eLF\nRB1Phor42ODRSZNGKW8TXG4lawKBgQC6P5vdcF8DJVYlFg3JqPbtCg+BQNjqB7Rp\n78njWMqQb1Mwe7cOwUEGfa+ZCGTIqCv9b6DdRgfDdgPFTS5drMERzh+O4jtrZjLc\n6SHzL4niBLeNf4wkAMdf/vrA/TT8zTqXOaXtz7KOpqT1bAPmoh/G29VwHprxA8qc\nd51aDRaznQKBgQCo9GYJvR35B95kI8jc4u24y3MBtm8b51ULpN6iDVygH7hmyxHt\nBD98v2mVC48nEHiyDqh4ddgjSbjK0B7akENthACX26WFDuwLtYy5HPNyRvUBw/uY\nIlLJeJbSCV5Q/iBId5Vsblhu4qg9MnN3+WKB1oVC8Z6JhHEVjdtt29N9zwKBgAMU\nokNbZHbs2yvp3XiEbvEkxXTh2bSlQ/qsmK5F/bO946ZdpX18/NJaqdjiJqia/39F\npWeDjQVSomVVDXtHLDpbKnJ2k30HR7gXsxQOqT0vzslsXqkJykJwOT2P8pxr2Jg/\nv9rbIJzzbK8Shk3+SIBFipY8K1vpMCS+Zb/jj4iRAoGBAJCAtSI97sbViZjFVfmj\nS+HVWrfQV7ogxm7ISfqh2Z78eETgseMqqK8G6CqgGkLlEoqSLZJCDKZHJFROa8k8\nUJcvJXoZ1uYIWyM9fGgDlslfFhzwTtCYIl8RykDDEQyHSz/Ipmi0QPRLkU9k8LF2\n00L3Vxw6IUKmPplPY6B/bffR\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@pivotal-glider-332317.iam.gserviceaccount.com",
+  "client_id": "117944273801486848190",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40pivotal-glider-332317.iam.gserviceaccount.com"
+}
